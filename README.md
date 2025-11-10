@@ -4,9 +4,9 @@ Welcome to my resume repository! Here you'll find my detailed professional backg
 
 ## 👩‍💻 About Me  
 
-I’m a **Computer Engineering graduate (Diploma, 2022–2025)** from **Dr. Babasaheb Ambedkar Technological University**, now pursuing **B.E. in Computer Engineering at MKSSS Cummins College of Engineering for Women, Pune**.  
+I’m a **Computer Engineering student (Diploma, 2022–2025)** from **Dr. Babasaheb Ambedkar Technological University** With a **9.66 CGPA**, now pursuing **B.E. in Computer Engineering at MKSSS Cummins College of Engineering for Women, Pune**.  
 
-With a **9.66 CGPA**, I’m deeply passionate about **AI/ML, full-stack development, and building impactful, scalable tech solutions** that make a difference.  
+I’m deeply passionate about **AI/ML, full-stack development, Cybersecurity and building impactful, scalable tech solutions** that make a difference.  
 
 ## 🎓 Education  
 
